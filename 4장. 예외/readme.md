@@ -1,6 +1,6 @@
 # 4장 예외
 ## 4.1 사라진 SQLException
-4.1.1 [초난감 예외처리](https://github.com/devSoyoung/2019-KHU-spring-study/edit/master/4%EC%9E%A5.%20%EC%98%88%EC%99%B8/readme.md)<br>
+4.1.1 초난감 예외처리<br>
       예외 블랙홀<br>
       무의미하고 무책임한 throws<br>
 4.1.2 예외의 종류와 특징<br>
