@@ -12,4 +12,4 @@
 3. [DAO 인터페이스와 DataAccessException 계층구조](https://github.com/devSoyoung/2019-KHU-spring-study/blob/master/4%EC%9E%A5.%20%EC%98%88%EC%99%B8/2.%20%EC%98%88%EC%99%B8%20%EC%A0%84%ED%99%98.md#423-dao-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80-dataaccessexception-%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0)
 4. [기술에 독립적인 UserDao 만들기](https://github.com/devSoyoung/2019-KHU-spring-study/blob/master/4%EC%9E%A5.%20%EC%98%88%EC%99%B8/2.%20%EC%98%88%EC%99%B8%20%EC%A0%84%ED%99%98.md#424-%EA%B8%B0%EC%88%A0%EC%97%90-%EB%8F%85%EB%A6%BD%EC%A0%81%EC%9D%B8-userdao-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
-## 4.3 정리 
+## [4.3 정리](https://github.com/devSoyoung/2019-KHU-spring-study/blob/master/4%EC%9E%A5.%20%EC%98%88%EC%99%B8/4.3%20%EC%A0%95%EB%A6%AC.md) 
